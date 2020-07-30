@@ -25,7 +25,7 @@ Follow these steps to set up your project:
 - [ ] Plan and implement how you are going to manage your state for your application
 - [ ] You _must_ use either context or Redux as your state management system
 - [ ] Once you have planned out your state management system, fetch data from the player server and display the data it returns
-- [ ] Add a form to collect info for a new player, and make a POST request to the server to add a new player to your village
+- [ ] Add a form to collect info for a new player, and make a POST request to the server to add a new player to your roster.
 
 ## API documentation
 
